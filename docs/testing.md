@@ -17,6 +17,7 @@
 git diff --check
 rg -n "T[B]D|TO[D]O|FIX[M]E|placeholde[r]|미[정]" AGENTS.md agents skills docs
 find AGENTS.md agents skills docs -type f | sort
+make test-project-skill-install
 ```
 
 ## 앱 구현 후 예상 검증

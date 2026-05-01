@@ -1,5 +1,5 @@
 ---
-name: agent-or-skill-change
+name: diet-app--agent-or-skill-change
 description: Use when this project needs to add, update, merge, retire, or review project-specific agents or skills.
 ---
 

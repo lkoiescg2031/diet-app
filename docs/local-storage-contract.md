@@ -5,7 +5,7 @@
 ## 기본 원칙
 
 - 초기 앱은 외부 서버에 사용자 데이터를 보내지 않는다.
-- 저장소 변경은 `skills/local-storage-change/SKILL.md` 절차를 따른다.
+- 저장소 변경은 `skills/diet-app--local-storage-change/SKILL.md` 절차를 따른다.
 - 영속 데이터 구조 변경은 schema version을 검토한다.
 - 사용자의 기존 데이터 삭제는 기본 migration 전략이 아니다.
 

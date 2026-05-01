@@ -1,5 +1,5 @@
 ---
-name: test-and-verify
+name: diet-app--test-and-verify
 description: Use before claiming completion, committing, merging, or handing off changes in this project.
 ---
 

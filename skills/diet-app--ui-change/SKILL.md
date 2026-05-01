@@ -1,5 +1,5 @@
 ---
-name: ui-change
+name: diet-app--ui-change
 description: Use when changing screens, navigation, forms, visual hierarchy, responsive behavior, or shared UI patterns in this diet app.
 ---
 

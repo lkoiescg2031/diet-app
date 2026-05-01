@@ -72,11 +72,11 @@ Expected: all six names are present
 ### Task 3: Project skill 파일과 skill registry
 
 **Files:**
-- Create: `skills/agent-or-skill-change/SKILL.md`
-- Create: `skills/feature-design/SKILL.md`
-- Create: `skills/local-storage-change/SKILL.md`
-- Create: `skills/ui-change/SKILL.md`
-- Create: `skills/test-and-verify/SKILL.md`
+- Create: `skills/diet-app--agent-or-skill-change/SKILL.md`
+- Create: `skills/diet-app--feature-design/SKILL.md`
+- Create: `skills/diet-app--local-storage-change/SKILL.md`
+- Create: `skills/diet-app--ui-change/SKILL.md`
+- Create: `skills/diet-app--test-and-verify/SKILL.md`
 - Create: `docs/skill-registry.md`
 
 - [x] **Step 1: project skill 파일 작성**

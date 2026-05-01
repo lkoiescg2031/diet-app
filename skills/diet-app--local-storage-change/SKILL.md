@@ -1,5 +1,5 @@
 ---
-name: local-storage-change
+name: diet-app--local-storage-change
 description: Use when changing local-only persistence, stored record shapes, schema versions, migrations, or derived data contracts in this project.
 ---
 

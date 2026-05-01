@@ -16,10 +16,10 @@
 | --- | --- |
 | agent/skill 선택이 필요함 | `docs/agent-registry.md`, `docs/skill-registry.md` |
 | agent/skill 변경 | `agents/ai-steward-agent.md`, `docs/ai-governance.md`, 관련 agent/skill |
-| 제품 기능 설계 | `agents/product-agent.md`, `skills/feature-design/SKILL.md`, 관련 spec |
-| UI 변경 | `agents/frontend-agent.md`, `skills/ui-change/SKILL.md`, 관련 spec/plan |
-| 저장 데이터 변경 | `agents/data-agent.md`, `skills/local-storage-change/SKILL.md`, `docs/data-model.md`, `docs/local-storage-contract.md` |
-| 검증 또는 완료 판단 | `agents/qa-agent.md`, `skills/test-and-verify/SKILL.md`, `docs/testing.md` |
+| 제품 기능 설계 | `agents/product-agent.md`, `skills/diet-app--feature-design/SKILL.md`, 관련 spec |
+| UI 변경 | `agents/frontend-agent.md`, `skills/diet-app--ui-change/SKILL.md`, 관련 spec/plan |
+| 저장 데이터 변경 | `agents/data-agent.md`, `skills/diet-app--local-storage-change/SKILL.md`, `docs/data-model.md`, `docs/local-storage-contract.md` |
+| 검증 또는 완료 판단 | `agents/qa-agent.md`, `skills/diet-app--test-and-verify/SKILL.md`, `docs/testing.md` |
 | 리뷰 | `agents/reviewer-agent.md`, 관련 spec/plan, diff |
 | 장기 결정 변경 | 관련 `docs/decisions/*.md` |
 

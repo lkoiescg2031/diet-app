@@ -1,5 +1,5 @@
 ---
-name: feature-design
+name: diet-app--feature-design
 description: Use when turning a diet app product idea into a project spec or revising feature scope before implementation.
 ---
 
@@ -15,8 +15,8 @@ description: Use when turning a diet app product idea into a project spec or rev
 2. MVP 범위와 후속 범위를 나눈다.
 3. 필요한 화면, 데이터, 계산, 저장 영향을 적는다.
 4. 수용 기준과 비목표를 작성한다.
-5. 저장 데이터 변경이 있으면 `data-agent`와 `local-storage-change`를 함께 사용한다.
-6. UI 변경이 있으면 `frontend-agent`와 `ui-change`를 함께 사용한다.
+5. 저장 데이터 변경이 있으면 `data-agent`와 `diet-app--local-storage-change`를 함께 사용한다.
+6. UI 변경이 있으면 `frontend-agent`와 `diet-app--ui-change`를 함께 사용한다.
 7. spec은 `docs/specs/YYYY-MM-DD-<topic>.md`에 저장한다.
 
 ## spec에 포함할 항목
