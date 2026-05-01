@@ -1,0 +1,13 @@
+.DS_Store
+.superpowers/
+
+node_modules/
+dist/
+build/
+coverage/
+
+.env
+.env.*
+!.env.example
+
+*.log
